@@ -68,18 +68,12 @@
 ---
 
 ### 📫 Connect with Me
-- 📧 **Email:** [Your Email Address]
-- 💼 **LinkedIn:** [Your LinkedIn Profile]
-- 🖥️ **GitHub:** [Your GitHub Profile]
-- 🐦 **Twitter:** [Your Twitter Handle] *(Optional)*
+- 📧 **Email:** [atayade241@gmail.com]
+- 💼 **LinkedIn:** [www.linkedin.com/in/adesh-tayade-80a138291]
+- 🖥️ **GitHub:** [https://github.com/Adesh]
 
----
 
-### 🖼️ Profile Banner
-<p align="center">
-  <img src="https://via.placeholder.com/1000x300/1a1a2e/ffffff?text=Welcome+to+Adesh's+GitHub+Profile" alt="Profile Banner" />
-</p>
-<!-- Replace with your custom banner image -->
+
 
 ---
 
