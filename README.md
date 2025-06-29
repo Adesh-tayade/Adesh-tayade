@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there 👋 I'm Adesh Tayade
 
-<!--
-**Adesh-tayade/Adesh-tayade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Engineering student, currently pursuing my final year.  
+💻 I have a basic foundation in **Web Development**, **Java**, **Python**, and **AWS**.  
+🛠️ Always eager to learn new technologies and improve my coding skills.  
+🏏 Apart from coding, I'm passionate about **playing and watching cricket**.
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- Programming: Java, Python, C
+- Web: HTML, CSS, JavaScript (Basic)
+- Tools: Git, GitHub, AWS (Basic), VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Current Goals
+- Strengthen my backend skills
+- Explore cloud computing deeper (AWS)
+- Build and contribute to open source projects
+
+### 📫 Connect with me
+- LinkedIn: [Your LinkedIn URL]
+- Email: [Your Email]
+- GitHub: [Your GitHub Profile Link]
+
+Thanks for visiting my profile! 😊
+
