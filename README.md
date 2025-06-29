@@ -1,20 +1,63 @@
-### Hi there 👋 I'm Adesh Tayade
+# 👋 Hi, I'm Hrushikesh Vijay Mahadik
 
-🎓 I'm a Computer Engineering student, currently pursuing my final year.  
-💻 I have a basic foundation in **Web Development**, **Java**, **Python**, and **AWS**.  
-🛠️ Always eager to learn new technologies and improve my coding skills.  
-🏏 Apart from coding, I'm passionate about **playing and watching cricket**.
+🎓 Computer Engineering Student | 💻 Web & Cloud Enthusiast | 📍 India
 
-### 🚀 Skills
-- Programming: Java, Python, C
-- Web: HTML, CSS, JavaScript (Basic)
-- Tools: Git, GitHub, AWS (Basic), VS Code
+---
 
-### 📈 Current Goals
-- Strengthen my backend skills
-- Explore cloud computing deeper (AWS)
-- Build and contribute to open source projects
+### 🚀 About Me
 
+- 💡 Passionate about Web Development and Cloud Computing
+- 💻 Skilled in *Java, **C, **JavaScript, **HTML/CSS, **SQL*
+- ☁ Learning and building on *AWS* (EC2, EBS, S3, IAM)
+- 🛠 Currently working on real-world projects involving cloud deployment and system design
+- 📚 Preparing for competitive technical exams like *AAI ATC*
 
-Thanks for visiting my profile! 😊
+---
 
+### 🧰 Tech Stack
+
+#### Languages & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hrushikesh-mahadik&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrushikesh-mahadik&theme=radical" width="48%" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- 📧 *Email:* hrushikesh.mahadik2003@gmail.com  
+- 💼 [*LinkedIn*](https://www.linkedin.com/in/hrushikesh-mahadik)  
+- 🖥 [*GitHub*](https://github.com/hrushikesh-mahadik)
+
+---
+
+### 🖼 My Banner / Profile Image
+
+<p align="center">
+  <img src="https://via.placeholder.com/1000x300?text=Welcome+to+My+GitHub+Profile" alt="Banner" />
+</p>
+
+<!-- You can replace the above link with your own banner image -->
+
+---
+
+“Keep learning. Keep building. Keep growing.”
