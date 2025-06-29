@@ -15,10 +15,6 @@
 - Explore cloud computing deeper (AWS)
 - Build and contribute to open source projects
 
-### 📫 Connect with me
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
-- GitHub: [Your GitHub Profile Link]
 
 Thanks for visiting my profile! 😊
 
